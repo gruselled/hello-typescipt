@@ -1,0 +1,10 @@
+{
+  "name": "hello-typescript",
+  "version": "0.0.1",
+  "devDependencies" : {
+    "gulp": "latest",
+    "gulp-server-livereload": "latest",
+    "gulp-typescript": "latest",
+    "tsd": "latest"
+  }
+}

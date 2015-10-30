@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true
+  },
+  "filesGlob": [
+    "app/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "lib",
+    "app/bower_components"
+  ]
+}
